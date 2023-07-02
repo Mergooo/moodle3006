@@ -1,0 +1,46 @@
+
+
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+.solution{
+    display: block;
+    margin-top: 10px ;
+    margin-top: 0 ;
+}
+
+.div{
+    display: inline;
+}
+
+div{
+    
+   
+    display: inline;
+    margin-bottom: 100px;
+  
+}
+
+p{
+    display: inline-block;
+}
+
+
+table, th, td {
+    border: 1px solid;
+  }
+  
